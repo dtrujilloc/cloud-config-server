@@ -1,5 +1,5 @@
 server:
   port: 8181
 spring:
-  profiles: dev, default, local
+  profiles: dev,default,local
 uri-test: "http:test.com"
