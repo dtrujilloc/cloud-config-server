@@ -1,0 +1,3 @@
+servert:
+  port: 8080
+name: krypto
